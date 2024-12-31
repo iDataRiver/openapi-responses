@@ -1,0 +1,42 @@
+{
+  "code": 0,
+  "result": {
+    "createdAt": "2024-06-25 13:34:01 Z",
+    "createdTS": 1719322441,
+    "desc": "***",
+    "descI18n": {
+      "en": "***"
+    },
+    "docLink": "",
+    "enableModifyItems": true,
+    "forbiddenModifyItems": true,
+    "hiddenStock": true,
+    "id": "***",
+    "itemType": "consumable",
+    "items": [
+      "product1",
+      "product2",
+      "product3"
+    ],
+    "itemsNum": 4,
+    "itemsStr": "product1\nproduct2\nproduct3",
+    "lockTS": 0,
+    "name": "***",
+    "nameI18n": {
+      "en": "***"
+    },
+    "order": {
+      "contactInfo": "",
+      "coupon": "",
+      "maxQuantity": 4,
+      "quantity": 1
+    },
+    "owner": "***",
+    "priority": 100,
+    "project": "***",
+    "sold": 0,
+    "status": "ONLINE",
+    "stock": 3,
+    "updatedAt": "2024-07-23 09:12:08 Z"
+  }
+}

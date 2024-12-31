@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "result": {
+    "items": [
+      {
+        "createdAt": "2024-12-29 01:48:36 Z",
+        "createdTS": 1735436916,
+        "eid": "3ce9819308a4e8499b2f2a8a3ad0eb70",
+        "id": "***",
+        "params": {
+          "botOwner": "***",
+          "channel": "telegram",
+          "content": "hello world.",
+          "event": "CUSTOM_CONTENT",
+          "to": "*",
+          "ts": 1735436916
+        },
+        "status": "NEW"
+      }
+    ]
+  }
+}

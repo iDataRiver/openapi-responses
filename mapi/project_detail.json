@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "result": {
+    "affiliates": [
+      {
+        "code": "***",
+        "createdAt": "2024-09-05 00:07:58 Z",
+        "createdTS": 1725494878,
+        "id": "***",
+        "lastSettleAt": "2024-09-11 11:36:01 Z",
+        "lastSettleTS": 1726054561,
+        "link": "***",
+        "name": "***",
+        "owner": "***",
+        "project": "***",
+        "ratio": 20,
+        "settledAmount": 240.0,
+        "settledProfit": 48.0,
+        "totalAmount": 240.0,
+        "updatedAt": "2024-09-05 00:08:56 Z",
+        "userId": "***"
+      }
+    ],
+    "coupons": [],
+    "cover": "https://static.idatariver.com/***",
+    "createdAt": "2024-08-19 03:40:21 Z",
+    "createdTS": 1724038821,
+    "desc": "***",
+    "descI18n": {
+      "en": "***"
+    },
+    "displayInMall": true,
+    "i18nType": 0,
+    "id": "***",
+    "isPlatform": false,
+    "name": "***",
+    "nameI18n": {
+      "en": "***"
+    },
+    "owner": "***",
+    "pricings": [
+      {
+        "createdAt": "2024-09-04 11:32:23 Z",
+        "createdTS": 1725449543,
+        "dynamicCapped": null,
+        "id": "***",
+        "owner": "***",
+        "policy": "fixed",
+        "price": 80.0,
+        "project": "***",
+        "scope": "specific",
+        "scopeItems": [
+          "***"
+        ],
+        "stages": null,
+        "status": "ONLINE",
+        "updatedAt": "2024-09-04 11:32:37 Z"
+      }
+    ],
+    "priority": 100,
+    "seoPath": "***",
+    "skus": [
+      {
+        "createdAt": "2024-09-04 11:31:01 Z",
+        "createdTS": 1725449461,
+        "desc": "***",
+        "descI18n": {
+          "en": "***"
+        },
+        "docLink": "",
+        "enableModifyItems": true,
+        "forbiddenModifyItems": true,
+        "hiddenStock": false,
+        "id": "***",
+        "itemType": "consumable",
+        "items": [],
+        "itemsNum": 14,
+        "itemsStr": "",
+        "lockTS": 0,
+        "name": "***",
+        "nameI18n": {
+          "en": "***"
+        },
+        "owner": "***",
+        "pricingScope": "specific",
+        "priority": 100,
+        "project": "***",
+        "sold": 23,
+        "status": "ONLINE",
+        "stock": 14,
+        "updatedAt": "2024-12-22 12:54:56 Z"
+      }
+    ],
+    "slug": "***",
+    "status": "ONLINE",
+    "type": "DIGITAL",
+    "updatedAt": "2024-08-19 03:50:42 Z"
+  }
+}

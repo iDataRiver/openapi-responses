@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "result": {
+    "contacts": {
+      "email": "",
+      "facebook": "",
+      "line": "",
+      "qq": "",
+      "telegram": "",
+      "wechat": "",
+      "whatsApp": "",
+      "x": ""
+    },
+    "desc": "***",
+    "descI18n": {},
+    "guarantee": 1,
+    "name": "***",
+    "projects": [
+      {
+        "aff": null,
+        "cover": "https://static.idatariver.com/img-cover-default",
+        "desc": "***",
+        "descI18n": {},
+        "hasCoupons": false,
+        "i18nType": 1,
+        "id": "***",
+        "isDemo": null,
+        "isPlatform": false,
+        "link": null,
+        "name": "***",
+        "nameI18n": {},
+        "priority": 9999,
+        "seoPath": "***",
+        "skus": [
+          {
+            "desc": "***",
+            "descI18n": {},
+            "docLink": "",
+            "hiddenStock": null,
+            "i18nType": null,
+            "id": "***",
+            "itemType": null,
+            "name": "***",
+            "nameI18n": {},
+            "order": {
+              "contactInfo": "",
+              "coupon": "",
+              "maxQuantity": 1,
+              "quantity": 1
+            },
+            "priceDesc": {
+              "policy": "fixed",
+              "price": "$0"
+            },
+            "pricing": {
+              "createdAt": "2024-12-07 01:43:03 Z",
+              "createdTS": 1733535783,
+              "dynamicCapped": null,
+              "id": "***",
+              "owner": "***",
+              "policy": "fixed",
+              "price": 0.0,
+              "project": "***",
+              "scope": "specific",
+              "scopeItems": [
+                "***"
+              ],
+              "stages": null,
+              "status": "ONLINE",
+              "updatedAt": "2024-12-07 01:43:11 Z"
+            },
+            "project": "***",
+            "stock": 999
+          }
+        ],
+        "slug": "****",
+        "status": "ONLINE",
+        "type": "DIGITAL"
+      }
+    ],
+    "website": {
+      "deploy": {
+        "secret": "***",
+        "vercel": "***"
+      },
+      "id": "***",
+      "owner": "***",
+      "script": "",
+      "settings": {},
+      "theme": "1"
+    }
+  }
+}

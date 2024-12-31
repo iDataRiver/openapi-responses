@@ -1,0 +1,31 @@
+{
+  "code": 0,
+  "result": {
+    "projects": [
+      {
+        "cover": "https://static.idatariver.com/***",
+        "createdAt": "2024-03-08 02:21:36 Z",
+        "createdTS": 1709864496,
+        "desc": "***",
+        "descI18n": {
+          "en": "***"
+        },
+        "displayInMall": false,
+        "i18nType": 0,
+        "id": "***",
+        "isPlatform": false,
+        "name": "***",
+        "nameI18n": {
+          "en": "***"
+        },
+        "owner": "***",
+        "priority": 100,
+        "seoPath": "***",
+        "slug": "***",
+        "status": "ONLINE",
+        "type": "DIGITAL",
+        "updatedAt": "2024-08-27 09:54:34 Z"
+      }
+    ]
+  }
+}

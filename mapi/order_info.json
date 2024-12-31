@@ -1,0 +1,129 @@
+{
+  "code": 0,
+  "result": {
+    "affCode": "",
+    "anonymous": true,
+    "consumer": null,
+    "contactInfo": "***",
+    "coupon": "",
+    "createdAt": "2024-12-18 03:43:03 Z",
+    "createdTS": 1734493383,
+    "digitalItemsStr": "",
+    "dt": "20241218",
+    "expiredInterval": 3600,
+    "id": "***",
+    "isConsumer": true,
+    "mContacts": {
+      "email": "",
+      "telegram": ""
+    },
+    "mPayments": [
+      {
+        "enabled": true,
+        "isPlatform": true,
+        "method": "credits",
+        "name": "credits",
+        "paymentFeeCovered": false,
+        "ratioRange": "0%"
+      },
+      {
+        "enabled": true,
+        "isPlatform": true,
+        "method": "crypto",
+        "name": "crypto",
+        "paymentFeeCovered": false,
+        "ratioRange": "0%"
+      },
+      {
+        "desc": "场外汇率7.5CNY",
+        "enabled": true,
+        "isPlatform": true,
+        "method": "alipay",
+        "name": "alipay",
+        "paymentFeeCovered": false,
+        "ratioRange": "6.0%"
+      },
+      {
+        "desc": "by On-Ramp",
+        "enabled": true,
+        "fixedFeeRange": "0.5$",
+        "isPlatform": true,
+        "method": "onramp",
+        "name": "onramp",
+        "paymentFeeCovered": false,
+        "ratioRange": "8.0%"
+      },
+      {
+        "desc": "by On-Ramp",
+        "enabled": true,
+        "fixedFeeRange": "0.5$",
+        "isPlatform": true,
+        "method": "onramp-google",
+        "name": "Google Pay",
+        "paymentFeeCovered": false,
+        "ratioRange": "8.0%"
+      },
+      {
+        "desc": "by On-Ramp",
+        "enabled": true,
+        "fixedFeeRange": "0.5$",
+        "isPlatform": true,
+        "method": "onramp-apple",
+        "name": "Apple Pay",
+        "paymentFeeCovered": false,
+        "ratioRange": "8.0%"
+      },
+      {
+        "desc": "by On-Ramp",
+        "enabled": true,
+        "fixedFeeRange": "0.5$",
+        "isPlatform": true,
+        "method": "onramp-venmo",
+        "name": "Venmo",
+        "paymentFeeCovered": false,
+        "ratioRange": "10.0%"
+      }
+    ],
+    "merchant": "***",
+    "notify": null,
+    "oriPrice": 50.0,
+    "paymentFeeCovered": false,
+    "price": 50.0,
+    "project": {
+      "cover": "https://static.idatariver.com/***",
+      "desc": "***",
+      "descI18n": {
+        "en": "***"
+      },
+      "i18nType": 0,
+      "id": "***",
+      "isPlatform": false,
+      "name": "***",
+      "nameI18n": {
+        "en": "***"
+      },
+      "seoPath": "***",
+      "status": "ONLINE",
+      "type": "DIGITAL"
+    },
+    "projectName": "***",
+    "projectType": "DIGITAL",
+    "quantity": 1,
+    "sku": {
+      "desc": "***",
+      "docLink": "***",
+      "i18nType": null,
+      "id": "***",
+      "itemType": "reuse",
+      "name": "***",
+      "nameI18n": {
+        "en": "***"
+      },
+      "status": "ONLINE",
+      "stock": 999
+    },
+    "skuName": "***",
+    "status": "EXPIRED",
+    "updatedAt": "2024-12-18 03:43:03 Z"
+  }
+}
